@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI](https://open.spotify.com/track/6Cx35YvicjQ7EnRUPQMaxg?si=e77dc44eaa3d4d5d))
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gpoelche&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **gpoelche/gpoelche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
