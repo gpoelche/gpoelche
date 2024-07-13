@@ -2,6 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gpoelche&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <a href="https://www.linkedin.com/in/george-poelcher-102ab02b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI](https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa?si=1Rv8Yp7GS2S2fcqAlAtPJw))
 <!--
 **gpoelche/gpoelche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
