@@ -1,6 +1,6 @@
 ## *Who is George?* 🩻
 
-I'm a student at Arizona State University studying Full-Stack Web Development. I am passionate about both effective, communicative design principles as well as user-interactivity on the web. Because of this, I see myself potentially becoming more interest in creating
+I'm a student at Arizona State University studying Full-Stack Web Development. I am passionate about both effective, communicative design principles as well as user-interactivity on the web. Because of this, I see myself potentially becoming more interested in creating
 web applications (whether it be in-browser games, analytics tools for video games, interactive websites for myself and other creatives, and more). I also see great opportunity for finding exciting and meaningful work in my home city of Pittsburgh, as the city continues
 to attract more big names within the tech-industry to the City of Bridges. *Did you know that DuoLingo is based out of Pittsburgh and was created by two Carnegie Mellon University Students?* 🦉
 
