@@ -1,4 +1,4 @@
-## *Who is George?* 🩻
+## *Who is George?* 
 
 I'm a student at Arizona State University studying Full-Stack Web Development. I am passionate about both effective, communicative design principles as well as user-interactivity on the web. Because of this, I see myself potentially becoming more interested in creating
 web applications (whether it be in-browser games, analytics tools for video games, interactive websites for myself and other creatives, and more). I also see great opportunity for finding exciting and meaningful work in my home city of Pittsburgh, as the city continues
