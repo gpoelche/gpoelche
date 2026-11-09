@@ -1,15 +1,34 @@
-## GEORGE POELCHER : AN INTRO
+# Hi there! I'm George
 
-<img width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhlOWRhcDFmdml0cXQyYTQ4MWF4dmlkY3R4Z3d2eHE1ajFtc2l5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6K9d0km3dH6OQ/giphy.gif">
+I am a full-stack web developer with two years of experience combining technical expertise and user-focused thinking to create responsive, intuitive web applications. I’m 
+completing the final semester of my undergraduate studies at Arizona State University and will soon be looking for full-time opportunities in the tech industry.
+<br>
+## Current Project(s):
 
-Hello! I'm currently a senior at Arizona State University studying GIT with a focus in Full-Stack Web Development. I'll also be completing the 4+1 Graduate Program at ASU for my Master's in GIT after completing my Bachelor's in Fall 2026. I'm passionate in effective, communicative design principles as well as user-interactivity on the web. I'm a frequent puruser of "small-internet" spaces and enjoy spending free time reading blog posts of others who reside in this circle of the internet. My time spent studying web-development has led to an appreciation of these cultural moments, with the creation of my private blog being the most fun I've had coding in recent years.
+I’m currently building a web application called **Pelican**, which provides filtered data
+search and tracking features for the fishing mechanics in Stardew Valley. The goal is to
+launch the project as a client-side application and incrementally expand the technology
+stack into a true full-stack service.
 
-Looking into the future, I'm hoping to achieve employment somewhere in Pittsburgh (my home city) working with one of the many great tech companies that are creating novel experiences on the internet. I also have aspirations of working with small businesses or individuals to help create and maintain their own corner of the internet as my own business venture between projects. Currently, I'm prototyping a personal project that utilizes an API from a popular videogame publisher to show players their account statistics. 
+<a href="https://github.com/gpoelche/pelican-git480">View Pelican's Progress</a>
+<br>
+## Technology in Stack:
 
-Outside of web-development, I work as a lab technician and associate at the Bodega Film Lab. Film photography is one of my greatest passions and I consider it an honor to work a job within a medium that has survived in the age of digital photography. In my personal time, I primarily shoot black-and-white with my Mamiya 645 (120) and Minolta X-700 (35mm). I also find joy in playing both new and older video games, especially those from the Nintendo Gamecube. The most recent game I've completed (twice) is: Luigi's Mansion. 👻
+Proficient In:
+`Java` • `Python` • `HTML` • `CSS` • `JavaScript` • `SQL (PostgreSQL)`
 
-You can find me at a few other places on the web:
+Currently Learning:
+`React` • `Node.js` • `Next.js`
+<br>
+## Some Fun Facts About Me:
+- 📍 I’m currently based in Pittsburgh, PA. I’m a yinzer through and through!
+- ⚙️ I deeply enjoy solving the logical puzzles and challenges that occur during
+development stages.
+- 🎞️ I am an avid film photographer and currently work as a film lab technician.
+- 👾 The Nintendo Gamecube is my favorite gaming console of all time. I’m currently
+playing The Legend of Zelda: The Wind Waker.
 
-👥 <a href="https://www.linkedin.com/in/george-poelcher-102ab02b7/">LinkedIn</a>
+## Connect with Me
+<a href="www.linkedin.com/in/george-poelcher">LinkedIn</a> • <a href="mailto:contact@georgepoelcher.com">Email</a> • <a href="www.georgepoelcher.com">Website</a>
 
-💻 <a href="https://georgepoelcher.com/">Personal Website [UNDER CONSTRUCTION]</a>
+<img src="https://static.wixstatic.com/media/3bfe3d_38559167eb664160811fe6591b30b187~mv2.gif" alt="A gif of Link from The Legend of Zelda swinging his sword in a circle.">
