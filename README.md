@@ -31,4 +31,4 @@ playing The Legend of Zelda: The Wind Waker.
 ## Connect with Me
 <a href="www.linkedin.com/in/george-poelcher">LinkedIn</a> • <a href="mailto:contact@georgepoelcher.com">Email</a> • <a href="www.georgepoelcher.com">Website</a>
 
-<img src="https://static.wixstatic.com/media/3bfe3d_38559167eb664160811fe6591b30b187~mv2.gif" alt="A gif of Link from The Legend of Zelda swinging his sword in a circle.">
+<img src="https://static.wixstatic.com/media/3bfe3d_38559167eb664160811fe6591b30b187~mv2.gif" height="100px" width="100px" alt="A gif of Link from The Legend of Zelda swinging his sword in a circle.">
